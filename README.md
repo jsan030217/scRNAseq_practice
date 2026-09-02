@@ -13,3 +13,5 @@
 #violin plot과 scatter plot을 이용하여 위의 각 항목에 대한 정보 시각화+분위수(percentile) 표 확인
 #해당 plot을 보며 QC의 threshold value 확인
 
+#1-3 QC filtering: QC metrix를 기반으로 임계값 결정 후 데이터 필터링
+#저품질 세포를 실제로 matrix에서 제거
