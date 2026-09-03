@@ -15,3 +15,6 @@
 
 #1-3 QC filtering: QC metrix를 기반으로 임계값 결정 후 데이터 필터링
 #저품질 세포를 실제로 matrix에서 제거
+
+#1-4 Normalization: 세포별 총 UMI가 다르기 때문에, 이를 비교 분석하기 위해서 보정하는 과정
+#발현량이 많은 
