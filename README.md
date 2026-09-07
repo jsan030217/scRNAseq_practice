@@ -30,3 +30,5 @@
 
 #1-8 Neighbors->clustering->visualization
 
+#R vs python 코드 및 결과 비교
+#1. R
